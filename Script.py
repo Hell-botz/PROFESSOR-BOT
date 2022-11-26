@@ -1,18 +1,24 @@
 class script(object):   
     HELP_TXT = """𝙷𝙴𝚈 {}\n𝙷𝙴𝚁𝙴 𝙸𝚂 𝙼𝚈 𝙷𝙴𝙻𝙿 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
 
-    ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴 : {}
-✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 : <a href=https://t.me/about_beantg>𝙈𝙍 𝘽𝞝𝘼𝙉</a>
-✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈 : 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
-✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴 : 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
-✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴 : 𝙼𝙾𝙽𝙶𝙾-𝙳𝙱
-✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁 : 𝙰𝙽𝚈𝚆𝙷𝙴𝚁𝙴
-✯ 𝙱𝚄𝙸𝙻𝙳 𝚅𝙴𝚁𝚂𝙸𝙾𝙽: 𝙿𝚁𝙾𝙵𝙴𝚂𝚂𝙾𝚁-𝙱𝙾𝚃 𝚟3.0.0"""
+    ABOUT_TXT = """➥ ᴍʏ ɴᴀᴍᴇ : {}
+
+➥ ᴅᴇᴠ  : <a href=https://t.me/about_beantg>𝙈𝙍 𝘽𝞝𝘼𝙉</a>
+
+➥ ʟɪʙʀᴀʀʏ : 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
+
+➥ ʟᴀɴɢᴜᴀɢᴇ : 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
+
+➥ ᴅᴀᴛᴀ ʙᴀꜱᴇ :𝙼𝙾𝙽𝙶𝙾-𝙳𝙱
+
+➥ ʙᴏᴛ ꜱᴇʀᴠᴇʀ : 𝙰𝙽𝚈𝚆𝙷𝙴𝚁𝙴
+
+➥ ʙᴜɪʟᴅ ᴠᴇʀꜱɪᴏɴ : 𝙿𝚁𝙾𝙵𝙴𝚂𝚂𝙾𝚁-𝙱𝙾𝚃 𝚟3.0.0"""
 
     SOURCE_TXT = """
 
 <b>DEVS:</b>
-- 𝙳𝚎𝚟 1<a href=https://t.me/about_beantg>𝙈𝙍 𝘽𝙀𝘼𝙉</a>
+ᴅᴇᴠ  1<a href=https://t.me/about_beantg>𝙈𝙍 𝘽𝙀𝘼𝙉</a>
 """
 
     FILE_TXT = """➤ 𝐇𝐞𝐥𝐩: 𝐅𝐢𝐥𝐞 𝐒𝐭𝐨𝐫𝐞 𝐌𝐨𝐝𝐮𝐥𝐞../
@@ -27,9 +33,9 @@ class script(object):
 
 ⪼ 𝐄𝐱𝐚𝐦𝐩𝐥𝐞 ›
 
-<code>/batch https://t.me/mkn_bots_updates https://t.me/mkn_bots_updates</code>
+<code>/batch https://t.me/hell_botz https://t.me/hell_botz</code>
 
-𝙲𝚁𝙴𝙳𝙸𝚃𝚂 ›› <a href=https://t.me/mkn_bots_updates><b>𝙼𝙺𝙽 𝙱𝙾𝚃𝚉</b></a>"""
+ᴄʀᴇᴅɪᴛꜱ ›› <a href=https://t.me/Hell_Botz><b>Hᴇʟʟ Bᴏᴛᴢ</b></a>"""
     
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
