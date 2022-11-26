@@ -824,11 +824,11 @@ async def cb_handler(client: Client, query: CallbackQuery):
         buttons = [[
             InlineKeyboardButton("➕️ ᴀᴅᴅ ᴍᴇ ᴛᴏ yᴏᴜʀ ɢʀᴏᴜᴩ ➕️", url=f"http://t.me/{temp.U_NAME}?startgroup=true")
             ],[
-            InlineKeyboardButton("ꜱᴇᴀʀᴄʜ", switch_inline_query_current_chat=''), 
-            InlineKeyboardButton("ᴜᴩᴅᴀᴛᴇꜱ", url="https://t.me/Hell_Botz")
+            InlineKeyboardButton("ʜᴇʟᴩ", callback_data="help"), 
+            InlineKeyboardButton("ꜱᴇᴀʀᴄʜ", switch_inline_query_current_chat='')
             
             ],[      
-            InlineKeyboardButton("ʜᴇʟᴩ", callback_data="help"),
+            InlineKeyboardButton("ᴜᴩᴅᴀᴛᴇꜱ", url="https://t.me/hell_botz"),
             InlineKeyboardButton("ᴀʙᴏᴜᴛ", callback_data="about")
             ],[
 
