@@ -40,11 +40,14 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton("➕️ ᴀᴅᴅ ᴍᴇ ʀᴏ yᴏᴜʀ ɢʀᴏᴜᴩ ➕️", url=f"http://t.me/{temp.U_NAME}?startgroup=true")
             ],[
-            InlineKeyboardButton("ꜱᴇᴀʀᴄʜ", switch_inline_query_current_chat=''), 
-            InlineKeyboardButton("ᴜᴩᴅᴀᴛᴇꜱ", url="https://t.me/hell_botz")
+            InlineKeyboardButton("ʜᴇʟᴩ", callback_data="help"), 
+            InlineKeyboardButton("ꜱᴇᴀʀᴄʜ", switch_inline_query_current_chat='')
             ],[      
-            InlineKeyboardButton("ʜᴇʟᴩ", callback_data="help"),
+            InlineKeyboardButton("ᴜᴩᴅᴀᴛᴇꜱ", url="https://t.me/hell_botz"),
             InlineKeyboardButton("ᴀʙᴏᴜᴛ", callback_data="about")
+            ],[
+
+            InlineKeyboardButton("ᴍᴏᴠɪᴇ ᴜᴘᴅᴀᴛᴇs", url="https://t.me/Cine_Paradise")
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_chat_action(enums.ChatAction.TYPING)
@@ -90,11 +93,14 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton("➕️ ᴀᴅᴅ ᴍᴇ ʀᴏ yᴏᴜʀ ɢʀᴏᴜᴩ ➕️", url=f"http://t.me/{temp.U_NAME}?startgroup=true")
             ],[
-            InlineKeyboardButton("ꜱᴇᴀʀᴄʜ", switch_inline_query_current_chat=''), 
-            InlineKeyboardButton("ᴜᴩᴅᴀᴛᴇꜱ", url="https://t.me/hell_botz")
+            InlineKeyboardButton("ʜᴇʟᴩ", callback_data="help"), 
+            InlineKeyboardButton("ꜱᴇᴀʀᴄʜ", switch_inline_query_current_chat='')
             ],[      
-            InlineKeyboardButton("ʜᴇʟᴩ", callback_data="help"),
+            InlineKeyboardButton("ᴜᴩᴅᴀᴛᴇꜱ", url="https://t.me/hell_botz"),
             InlineKeyboardButton("ᴀʙᴏᴜᴛ", callback_data="about")
+            ],[
+
+            InlineKeyboardButton("ᴍᴏᴠɪᴇ ᴜᴘᴅᴀᴛᴇs", url="https://t.me/Cine_Paradise")
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_chat_action(enums.ChatAction.TYPING)
