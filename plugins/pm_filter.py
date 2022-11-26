@@ -822,15 +822,17 @@ async def cb_handler(client: Client, query: CallbackQuery):
         await query.answer("🤨 Curiosity is a little more, isn't it? 😁", show_alert=True)
     elif query.data == "start":                        
         buttons = [[
-            InlineKeyboardButton("➕️ 𝙰𝙳𝙳 𝙼𝙴 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿 ➕️", url=f"http://t.me/{temp.U_NAME}?startgroup=true")
+            InlineKeyboardButton("➕️ ᴀᴅᴅ ᴍᴇ ᴛᴏ yᴏᴜʀ ɢʀᴏᴜᴩ ➕️", url=f"http://t.me/{temp.U_NAME}?startgroup=true")
             ],[
             InlineKeyboardButton("ꜱᴇᴀʀᴄʜ", switch_inline_query_current_chat=''), 
-            InlineKeyboardButton("ᴜᴩᴅᴀᴛᴇꜱ", url="https://t.me/mkn_bots_updates")
-            ],[
-            InlineKeyboardButton("ᴍᴏᴠɪᴇ ᴜᴘᴅᴀᴛᴇs", url="https://t.me/MR_LINK_Z")
+            InlineKeyboardButton("ᴜᴩᴅᴀᴛᴇꜱ", url="https://t.me/Hell_Botz")
+            
             ],[      
             InlineKeyboardButton("ʜᴇʟᴩ", callback_data="help"),
             InlineKeyboardButton("ᴀʙᴏᴜᴛ", callback_data="about")
+            ],[
+
+            InlineKeyboardButton("ᴍᴏᴠɪᴇ ᴜᴘᴅᴀᴛᴇs", url="https://t.me/Cine_Paradise")
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
@@ -922,7 +924,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "source":
         buttons = [[
-            InlineKeyboardButton('ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ', url='https://github.com/MrMKN/PROFESSOR-BOT')
+            InlineKeyboardButton('ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ', url='https://graph.org/file/93c32d542399597c005e4.jpg')
             ],[
             InlineKeyboardButton('◁', callback_data='about')
         ]]
