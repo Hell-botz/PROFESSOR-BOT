@@ -18,7 +18,7 @@ class script(object):
     SOURCE_TXT = """
 
 <b>DEVS:</b>
-ᴅᴇᴠ  1<a href=https://t.me/about_beantg>𝙈𝙍 𝘽𝙀𝘼𝙉</a>
+ᴅᴇᴠᴇʟᴏᴩᴇʀ <a href=https://t.me/about_beantg>𝙈𝙍 𝘽𝙀𝘼𝙉</a>
 """
 
     FILE_TXT = """➤ 𝐇𝐞𝐥𝐩: 𝐅𝐢𝐥𝐞 𝐒𝐭𝐨𝐫𝐞 𝐌𝐨𝐝𝐮𝐥𝐞../
