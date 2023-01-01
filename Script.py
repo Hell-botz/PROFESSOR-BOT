@@ -3,7 +3,7 @@ class script(object):
 
     ABOUT_TXT = """➥ ᴍʏ ɴᴀᴍᴇ : {}
 
-➥ ᴅᴇᴠ  : <a href=https://t.me/about_beantg>𝙈𝙍 𝘽𝞝𝘼𝙉</a>
+➥ ᴅᴇᴠ  : <a href=https://t.me/hell_botz>˹ʜᴇʟʟ ʙᴏᴛᴢ˼</a>
 
 ➥ ʟɪʙʀᴀʀʏ : 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 
@@ -16,9 +16,10 @@ class script(object):
 ➥ ʙᴜɪʟᴅ ᴠᴇʀꜱɪᴏɴ : 𝙿𝚁𝙾𝙵𝙴𝚂𝚂𝙾𝚁-𝙱𝙾𝚃 𝚟3.0.0"""
 
     SOURCE_TXT = """
+{} ɪs ɴᴏᴛ ᴀ ᴏᴘᴇɴ sᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ
 
 <b>DEVS:</b>
-ᴅᴇᴠᴇʟᴏᴩᴇʀ <a href=https://t.me/about_beantg>𝙈𝙍 𝘽𝙀𝘼𝙉</a>
+ᴅᴇᴠᴇʟᴏᴩᴇʀ <a href=https://t.me/hell_botz>˹ʜᴇʟʟ ʙᴏᴛᴢ˼</a>
 """
 
     FILE_TXT = """➤ 𝐇𝐞𝐥𝐩: 𝐅𝐢𝐥𝐞 𝐒𝐭𝐨𝐫𝐞 𝐌𝐨𝐝𝐮𝐥𝐞../
